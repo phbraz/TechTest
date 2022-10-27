@@ -1,0 +1,10 @@
+﻿ConsoleApp/bin
+ConsoleApp/obj
+.vs
+.idea
+Domain/obj
+Domain/bin
+TestProject/bin
+TestProject/obj
+WebAPI/bin
+WebAPI/obj
